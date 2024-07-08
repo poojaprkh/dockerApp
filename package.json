@@ -1,0 +1,17 @@
+{
+  "name": "mydockerapp",
+
+  "version": "1.0.0",
+  "description": "this is practice project for docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pooja Parekh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsdoc": "^4.0.3",
+    "nodemon": "^3.1.4"
+  }
+}
