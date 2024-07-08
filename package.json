@@ -1,0 +1,14 @@
+{
+  "name": "dockerapp",
+  "version": "1.0.0",
+  "description": "this is docker app is only for practice\r  this is commit from Ajay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourabh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
