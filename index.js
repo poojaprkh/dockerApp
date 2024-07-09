@@ -2,7 +2,7 @@ const express= require('express');
 const app= express();
 
 app.get('/home',(req,res)=>{
-	res.json({message:'Home page'})
+	res.json({message:'Home page ajay'})
 });
 app.get('/',(req,res)=>{
 res.json({message:'this is docker file'});
