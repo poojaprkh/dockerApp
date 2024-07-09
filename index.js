@@ -5,7 +5,6 @@ app.get('/home',(req,res)=>{
 	res.json({message:'Home page'})
 });
 app.get('/',(req,res)=>{
-res.json({message:'this is docker file'})
-
-})
+res.json({message:'this is docker file'});
+});
 app.listen(3300,()=>console.log('server running on 3300'))
